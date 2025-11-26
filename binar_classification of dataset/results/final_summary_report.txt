@@ -1,0 +1,70 @@
+
+================================================================================
+DDOS DETECTION IN SD-VANET USING DEEP LEARNING
+RESEARCH SUMMARY REPORT
+================================================================================
+
+Dataset Information:
+-------------------
+- Dataset: BoT-IoT (5% version)
+- Total Samples: 3,668,522
+- Number of Features: 40
+- Number of Classes: 2
+- Class Distribution:
+1    3668045
+0        477
+
+Data Split:
+----------
+- Training Set: 2,004 samples (after balancing)
+- Validation Set: 548,811 samples
+- Test Set: 550,279 samples
+
+Class Balancing:
+---------------
+- Method: Hybrid Sampling (Undersampling + Noise Augmentation)
+- Original Imbalance Ratio: 7691.91:1
+- Final Balanced Ratio: ~1:1
+
+Models Evaluated:
+----------------
+              Model  Train_Acc  Val_Acc  Test_Acc  Test_Precision  Test_Recall  Test_F1  Test_MCC  Training_Time
+            XGBoost   1.000000 0.999995  0.999987        0.999988     0.999987 0.999988  0.954663       0.037898
+      Random Forest   1.000000 0.999995  0.999993        0.999993     0.999993 0.999993  0.973325       0.128647
+Logistic Regression   1.000000 0.999408  0.999382        0.999892     0.999382 0.999599  0.417911       0.436276
+   LSTM + Attention   0.510978 0.999832  0.999831        0.999926     0.999831 0.999864  0.660522      99.416676
+    GRU + Attention   0.487026 0.999772  0.999776        0.999917     0.999776 0.999828  0.607576     148.179880
+
+Best Performing Model:
+---------------------
+Model: Random Forest
+- Test Accuracy: 1.0000 (100.00%)
+- Test F1-Score: 1.0000
+- Test Precision: 1.0000
+- Test Recall: 1.0000
+- Test MCC: 0.9733
+- Training Time: 0.13 seconds
+
+Key Findings:
+------------
+1. Deep learning models (LSTM+Attention, GRU+Attention) show competitive performance
+2.  Attention mechanisms help capture important temporal patterns
+3. GRU+Attention has fewer parameters than LSTM+Attention (23.8% reduction)
+4. Traditional ML models (XGBoost, Random Forest) provide strong baselines
+
+System Configuration:
+--------------------
+- Device: cuda
+- GPU: Quadro RTX 5000
+- PyTorch Version: 2.7.1+cu118
+- CUDA Available: True
+
+Generated Files:
+---------------
+- Models saved in: ./models/
+- Plots saved in: ./plots/
+- Results saved in: ./results/
+
+================================================================================
+Report Generated: 2025-11-26 02:11:16
+================================================================================

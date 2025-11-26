@@ -1,0 +1,15 @@
+================================================================================
+CLASS BALANCING INFORMATION
+================================================================================
+
+Method: Hybrid Sampling (Undersample + Noise Augmentation)
+Target Ratio: 3:1
+Noise Level: 0.5% of std
+
+            Metric             Before          After
+     Total Samples          2,569,432          2,004
+Class 0 (Minority)        334 (0.01%) 1,002 (50.00%)
+Class 1 (Majority) 2,569,098 (99.99%) 1,002 (50.00%)
+   Ratio (Maj:Min)          7691.91:1         1.00:1
+
+================================================================================
