@@ -1,0 +1,29 @@
+\contentsline {chapter}{Certificate of Examination}{ii}%
+\contentsline {chapter}{Supervisors' Certificate}{iii}%
+\contentsline {chapter}{Dedication}{iv}%
+\contentsline {chapter}{Declaration of Originality}{v}%
+\contentsline {chapter}{Acknowledgment}{vi}%
+\contentsline {chapter}{Abstract}{vii}%
+\contentsline {chapter}{List of Figures}{ix}%
+\contentsline {chapter}{List of Tables}{x}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}%
+\contentsline {section}{\numberline {1.1}Dissertation Arrangement}{1}%
+\contentsline {subsubsection}{Author's Official Name}{5}%
+\contentsline {section}{\numberline {1.2}Dissertation Layout}{5}%
+\contentsline {section}{\numberline {1.3}Chapters}{8}%
+\contentsline {section}{\numberline {1.4}Compilation using \LaTeX }{8}%
+\contentsline {chapter}{\numberline {2}Some Unstructured Advice on Dissertation Writing}{11}%
+\contentsline {section}{\numberline {2.1}Units}{11}%
+\contentsline {section}{\numberline {2.2}Significant figures}{12}%
+\contentsline {section}{\numberline {2.3}Grammar}{12}%
+\contentsline {section}{\numberline {2.4}Literature Review}{13}%
+\contentsline {section}{\numberline {2.5}Materials and Methods}{13}%
+\contentsline {section}{\numberline {2.6}Completeness and Transparency}{13}%
+\contentsline {chapter}{\numberline {3}Conclusion}{14}%
+\contentsline {chapter}{References}{15}%
+\contentsline {chapter}{Dissemination}{16}%
+\contentsline {paragraph}{Internationally indexed journals}{16}%
+\contentsline {paragraph}{Other journals and Book chapters}{16}%
+\contentsline {paragraph}{Conferences}{16}%
+\contentsline {paragraph}{Article under preparation}{16}%
+\contentsline {chapter}{Index}{17}%

@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+
+\bibitem{Shannon}
+Shannon, C.~E., 1948.
+\newblock ``A mathematical theory of communication''.
+\newblock {\em Bell System Technical Journal, {\bf 27}}(3), July,
+  pp.~379~--~423.
+
+\bibitem{Lowe}
+Lowe, D., 2004.
+\newblock ``Distinctive image features from scale-invariant keypoints''.
+\newblock {\em International Journal of Computer Vision, {\bf 60}}(2),
+  February, pp.~91~--~110.
+
+\bibitem{BulbE}
+Edison, T.~A., 1892.
+\newblock Manufacture of carbon filaments, November.
+\newblock {US} Patent US485616A.
+
+\bibitem{ViBEpatent}
+Droogenbroeck, M.~V., and Barnich, O., 2010.
+\newblock Visual background extractor, August.
+\newblock {US} Patent US20100208998A1.
+
+\bibitem{p00e}
+Jain, A.~K., 1989.
+\newblock {\em Fundamentals of digital image processing}.
+\newblock Prentice-Hall of India.
+
+\bibitem{Vapnik}
+Vapnik, V.~N., 1995.
+\newblock {\em The nature of statistical learning theory}.
+\newblock Springer-Verlag, New York.
+
+\bibitem{Toyama}
+Toyama, K., Krumm, J., Brumitt, B., and Meyers, B., 1999.
+\newblock ``Wallflower: {P}rinciples and practice of background maintenance''.
+\newblock In Proceedings of International Conference on Computer Vision,
+  ICCV~-~1999, pp.~255~--~261.
+
+\bibitem{icra}
+Lin, M.~C., and Canny, J.~F., 1991.
+\newblock ``A fast algorithm for incremental distance calculation''.
+\newblock In International Conference on Robotics and Automation, ICRA~-~1991,
+  pp.~1008~--~1014.
+
+\bibitem{nasa}
+NASA, 1964.
+\newblock Mariner 4, {NSSDC ID: 1964-077A}.
+\newblock National Space Science Data Center,
+  \url{http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1964-077A}.
+
+\bibitem{Kodak}
+Fielding, G., 2007.
+\newblock Digital {ICE}: {D}efect detection and correction using
+  infrared-enabled scanners.
+\newblock Eastman Kodak Company,
+  \url{http://www.motion.kodak.com/motion/hub/itp/dice/default.htm}.
+
+\bibitem{Sutherland}
+Sutherland, I.~E., 1963.
+\newblock ``Sketchpad, a man-machine graphical communication system''.
+\newblock PhD thesis, Massachusetts Institute of Technology, January.
+
+\bibitem{Dhawan}
+Dhawan, S., 1951.
+\newblock ``Direct measurements of skin friction''.
+\newblock PhD thesis, California Institute of Technology, January.
+
+\end{thebibliography}
